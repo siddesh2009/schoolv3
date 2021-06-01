@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\SchoolV1.1\School.Utilities.Contract\bin\Debug\netstandard2.0\School.Utilities.Contract.deps.json
+C:\Users\USER\source\repos\SchoolV1.1\School.Utilities.Contract\bin\Debug\netstandard2.0\School.Utilities.Contract.dll
+C:\Users\USER\source\repos\SchoolV1.1\School.Utilities.Contract\bin\Debug\netstandard2.0\School.Utilities.Contract.pdb
+C:\Users\USER\source\repos\SchoolV1.1\School.Utilities.Contract\obj\Debug\netstandard2.0\School.Utilities.Contract.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SchoolV1.1\School.Utilities.Contract\obj\Debug\netstandard2.0\School.Utilities.Contract.AssemblyInfo.cs
+C:\Users\USER\source\repos\SchoolV1.1\School.Utilities.Contract\obj\Debug\netstandard2.0\School.Utilities.Contract.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SchoolV1.1\School.Utilities.Contract\obj\Debug\netstandard2.0\School.Utilities.Contract.dll
+C:\Users\USER\source\repos\SchoolV1.1\School.Utilities.Contract\obj\Debug\netstandard2.0\School.Utilities.Contract.pdb

@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\SchoolV1.1\School.Data.Model\bin\Debug\netstandard2.0\School.Data.Model.deps.json
+C:\Users\USER\source\repos\SchoolV1.1\School.Data.Model\bin\Debug\netstandard2.0\School.Data.Model.dll
+C:\Users\USER\source\repos\SchoolV1.1\School.Data.Model\bin\Debug\netstandard2.0\School.Data.Model.pdb
+C:\Users\USER\source\repos\SchoolV1.1\School.Data.Model\obj\Debug\netstandard2.0\School.Data.Model.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SchoolV1.1\School.Data.Model\obj\Debug\netstandard2.0\School.Data.Model.AssemblyInfo.cs
+C:\Users\USER\source\repos\SchoolV1.1\School.Data.Model\obj\Debug\netstandard2.0\School.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SchoolV1.1\School.Data.Model\obj\Debug\netstandard2.0\School.Data.Model.dll
+C:\Users\USER\source\repos\SchoolV1.1\School.Data.Model\obj\Debug\netstandard2.0\School.Data.Model.pdb

@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\SchoolV1.1\School.Utility.Logic\bin\Debug\netstandard2.0\School.Utility.Logic.deps.json
+C:\Users\USER\source\repos\SchoolV1.1\School.Utility.Logic\bin\Debug\netstandard2.0\School.Utility.Logic.dll
+C:\Users\USER\source\repos\SchoolV1.1\School.Utility.Logic\bin\Debug\netstandard2.0\School.Utility.Logic.pdb
+C:\Users\USER\source\repos\SchoolV1.1\School.Utility.Logic\obj\Debug\netstandard2.0\School.Utility.Logic.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SchoolV1.1\School.Utility.Logic\obj\Debug\netstandard2.0\School.Utility.Logic.AssemblyInfo.cs
+C:\Users\USER\source\repos\SchoolV1.1\School.Utility.Logic\obj\Debug\netstandard2.0\School.Utility.Logic.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SchoolV1.1\School.Utility.Logic\obj\Debug\netstandard2.0\School.Utility.Logic.dll
+C:\Users\USER\source\repos\SchoolV1.1\School.Utility.Logic\obj\Debug\netstandard2.0\School.Utility.Logic.pdb

@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\bin\Release\netstandard2.0\School.Business.Contract.deps.json
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\bin\Release\netstandard2.0\School.Business.Contract.dll
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\bin\Release\netstandard2.0\School.Business.Contract.pdb
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\bin\Release\netstandard2.0\School.Data.Model.dll
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\bin\Release\netstandard2.0\School.ViewModel.dll
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\bin\Release\netstandard2.0\School.ViewModel.pdb
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\bin\Release\netstandard2.0\School.Data.Model.pdb
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\obj\Release\netstandard2.0\School.Business.Contract.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\obj\Release\netstandard2.0\School.Business.Contract.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\obj\Release\netstandard2.0\School.Business.Contract.AssemblyInfo.cs
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\obj\Release\netstandard2.0\School.Business.Contract.csproj.CopyComplete
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\obj\Release\netstandard2.0\School.Business.Contract.dll
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\obj\Release\netstandard2.0\School.Business.Contract.pdb
+C:\Users\USER\source\repos\SchoolV1.1\School.Business.Contract\obj\Release\netstandard2.0\School.Business.Contract.csproj.CoreCompileInputs.cache

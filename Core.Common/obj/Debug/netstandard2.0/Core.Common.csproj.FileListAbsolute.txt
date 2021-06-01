@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\SchoolV1.1\Core.Common\bin\Debug\netstandard2.0\NLog.config
+C:\Users\USER\source\repos\SchoolV1.1\Core.Common\bin\Debug\netstandard2.0\Core.Common.deps.json
+C:\Users\USER\source\repos\SchoolV1.1\Core.Common\bin\Debug\netstandard2.0\Core.Common.dll
+C:\Users\USER\source\repos\SchoolV1.1\Core.Common\bin\Debug\netstandard2.0\Core.Common.pdb
+C:\Users\USER\source\repos\SchoolV1.1\Core.Common\obj\Debug\netstandard2.0\Core.Common.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SchoolV1.1\Core.Common\obj\Debug\netstandard2.0\Core.Common.AssemblyInfo.cs
+C:\Users\USER\source\repos\SchoolV1.1\Core.Common\obj\Debug\netstandard2.0\Core.Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SchoolV1.1\Core.Common\obj\Debug\netstandard2.0\Core.Common.dll
+C:\Users\USER\source\repos\SchoolV1.1\Core.Common\obj\Debug\netstandard2.0\Core.Common.pdb
